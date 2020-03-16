@@ -1,0 +1,11 @@
+C:\Users\BINTANG\source\repos\tgs3-16mar\obj\Debug\netcoreapp3.1\tgs3-16mar.csprojAssemblyReference.cache
+C:\Users\BINTANG\source\repos\tgs3-16mar\obj\Debug\netcoreapp3.1\tgs3-16mar.AssemblyInfoInputs.cache
+C:\Users\BINTANG\source\repos\tgs3-16mar\obj\Debug\netcoreapp3.1\tgs3-16mar.AssemblyInfo.cs
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.exe
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.deps.json
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.runtimeconfig.json
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.runtimeconfig.dev.json
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.dll
+C:\Users\BINTANG\source\repos\tgs3-16mar\bin\Debug\netcoreapp3.1\tgs3-16mar.pdb
+C:\Users\BINTANG\source\repos\tgs3-16mar\obj\Debug\netcoreapp3.1\tgs3-16mar.dll
+C:\Users\BINTANG\source\repos\tgs3-16mar\obj\Debug\netcoreapp3.1\tgs3-16mar.pdb
